@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hrshahriari
 - 👀 I’m interested in program analysis and security vulnerabiltiy detection.
 - 🌱 I’m currently learning python, react, ...
-- 💞️ I’m looking to collaborate on pioneer softwares, speciall on program analysis. 
+- 💞️ I’m looking to collaborate on pioneer softwares, specially on program analysis. 
 - 📫 How to reach me: hshahriari at google email (you know!)
 
 <!---
